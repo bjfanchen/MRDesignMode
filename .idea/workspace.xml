@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpCount.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpCount.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bupt/fnl/SpCount.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="class#Reduce#0;class#SpCount#0" expanded="false" />
@@ -38,11 +38,76 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-756">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1510495295592" expanded="true" signature="30770:30787" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="30770:30805" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="30770:30818" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="30770:30833" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="30868:33081" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="30881:33066" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="30935:31230" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="30954:31215" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31017:31195" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31057:31161" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31078:31139" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31280:31607" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31299:31592" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31394:31572" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31434:31538" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31455:31516" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31658:31923" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31677:31908" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31710:31888" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31750:31854" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31771:31832" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31966:32272" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="31985:32257" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="32059:32237" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="32099:32203" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="32120:32181" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="32323:32677" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="32342:32662" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="32425:32642" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="32465:32608" ph="..." />
+                <marker date="1510495295592" expanded="true" signature="32486:32586" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StripesSpCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bupt/fnl/StripesSpCount.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PairSpCount.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bupt/fnl/PairSpCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -148,6 +213,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -256,15 +322,16 @@
       <updated>1510478146476</updated>
       <workItem from="1510478151298" duration="1652000" />
       <workItem from="1510491228191" duration="414000" />
-      <workItem from="1510491704655" duration="1531000" />
+      <workItem from="1510491704655" duration="2190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3597000" />
+    <option name="totallyTimeSpent" value="4256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -280,7 +347,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -315,14 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6220.14781/WordCount.java" />
     <entry file="file://$USER_HOME$/Desktop/文档/大数据实验/code/code/WordCount.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -331,17 +390,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bupt/fnl/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510495295592" expanded="true" signature="30770:30787" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="30770:30805" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="30770:30818" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="30770:30833" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="30868:33081" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="30881:33066" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="30935:31230" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="30954:31215" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31017:31195" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31057:31161" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31078:31139" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31280:31607" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31299:31592" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31394:31572" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31434:31538" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31455:31516" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31658:31923" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31677:31908" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31710:31888" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31750:31854" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31771:31832" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31966:32272" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="31985:32257" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="32059:32237" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="32099:32203" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="32120:32181" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="32323:32677" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="32342:32662" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="32425:32642" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="32465:32608" ph="..." />
+            <marker date="1510495295592" expanded="true" signature="32486:32586" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -354,15 +454,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bupt/fnl/SpCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="class#Reduce#0;class#SpCount#0" expanded="false" />
             <element signature="method#main#0;class#SpCount#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bupt/fnl/StripesSpCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bupt/fnl/PairSpCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
