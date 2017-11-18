@@ -44,6 +44,7 @@ public class StripesSpCount {
             long accessNum = 0;
             long upTotal = 0;
             long downTotal = 0;
+            long total = 0;
             String spName = null;
 
             for (Text value:values) {
@@ -52,11 +53,12 @@ public class StripesSpCount {
                 spName = words[0];
                 upTotal += Long.parseLong(words[1]);
                 downTotal += Long.parseLong(words[2]);
+                total = upTotal + downTotal;
             }
 
             String resultKey = key.toString() + "\t" + spName;
 
-            String resultValue = accessNum + "\t" + upTotal + "\t" + downTotal;
+            String resultValue = accessNum + "\t" + total;
 
             context.write(new Text(resultKey), new Text(resultValue));
         }

@@ -45,15 +45,17 @@ public class PairSpCount {
             long accessNum = 0;
             long upTotal = 0;
             long downTotal = 0;
+            long Total = 0;
 
             for (Text value:values) {
                 accessNum++;
                 String[] words = value.toString().split("\t");
                 upTotal += Long.parseLong(words[0]);
                 downTotal += Long.parseLong(words[1]);
+                Total = upTotal + downTotal;
             }
 
-            String resultValue = accessNum + "\t" + upTotal + "\t" + downTotal;
+            String resultValue = accessNum + "\t" + Total;
 
             context.write(key, new Text(resultValue));
         }
